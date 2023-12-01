@@ -24,3 +24,5 @@ Here are some examples of how to use PyStructureBuilder:
 - python pystructurebuilder.py /path/to/destination/myproject
 - Create a website directory structure with default HTML and CSS files:
 
+Ejemplo
+python main /Users/antonio/Desktop/workspace/backend-nodejs-gestionolivar/
